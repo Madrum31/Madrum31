@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Madrum31/Madrum31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome here ! 😎 🌍
 
-Here are some ideas to get you started:
+💻 - Technology student  
+✅ - I'm passionate about technology, and crazy about innovation. 🚀 📲  
+🕓 - I'm not currently working in the technology field (But that's just a matter of time.) ⌚️
+💬 - Call me to talk, I like that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# - "The best technologies are those that are used for the benefit of all humanity." 🧠
+
+📍 - Currently living in London - UK  👑  🇬🇧
+👨‍💻 - Studying Front End with React  ⚛️
+📱 - From time to time creating content on Instagram and Youtube 📸  📹
