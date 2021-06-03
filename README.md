@@ -2,13 +2,13 @@
 
 # Welcome here ! 😎 🌍
 
-💻 - Technology student  
+💻  - Technology student  
 
-✅ - I'm passionate about technology, and crazy about innovation. 🚀 📲  
+✅  - I'm passionate about technology, and crazy about innovation. 🚀 📲  
 
-🕓 - I'm not currently working in the technology field (But that's just a matter of time.) ⌚️
+🕓  - I'm not currently working in the technology field (But that's just a matter of time.) ⌚️
 
-💬 - Call me to talk, I like that.
+💬  - Call me to talk, I like that.
 
 
 
