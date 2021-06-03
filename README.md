@@ -14,11 +14,11 @@
 
 # - "The best technologies are those that are used for the benefit of all humanity." 🧠
 
-📍 - Currently living in London - UK  👑  
+📍 - Currently living in London - UK  👑  💂
 
 👨‍💻 - Studying Front End with React  
 
-📱 - From time to time creating content on Instagram and Youtube 📸  📹
+📱 - From time to time creating content on Instagram and Youtube 📸   📹
 
 
 ## Here we go ?
